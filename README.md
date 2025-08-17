@@ -1,38 +1,11 @@
-# 🌐 Meu Primeiro Projeto em HTML e CSS
+<h1 align="center">🌐 Meu Primeiro Projeto em HTML e CSS</h1>
 
-Este é um projeto desenvolvido como parte dos meus estudos em desenvolvimento web.  
-O objetivo foi praticar os fundamentos de **HTML5 e CSS3**, criando uma página simples e responsiva.
-
----
-
-## 🚀 Tecnologias utilizadas
-- HTML5  
-- CSS3 (Flexbox e Grid Layout)  
-- Git & GitHub  
+<p align="center">
+Este foi meu primeiro projeto de programação, desenvolvido durante um desafio da Rocketseat, como parte dos meus estudos em desenvolvimento web. Através dele, tive meu primeiro contato prático com a lógica da programação e confirmei minha decisão de seguir nessa área. O objetivo do projeto foi explorar os fundamentos do **HTML5 e do CSS**, criando um agregador de links que funciona como cartão de visitas online. Durante o projeto, aprendi a estruturar páginas web de forma semântica, aplicar estilos personalizados e entender melhor como unir teoria e prática para dar vida a uma ideia simples, mas funcional.
+</p>
 
 ---
-
-## 📚 O que eu aprendi
-- Estruturar uma página utilizando HTML semântico  
-- Estilizar componentes com CSS  
-- Criar layouts responsivos com Flexbox e Grid  
-- Publicar um projeto no GitHub  
-
----
-
-## 📸 Demonstração
-_(se você quiser, pode adicionar um print da tela do site aqui)_
-
----
-
-## 🔗 Acesse o projeto
-👉 [Veja o repositório aqui](URL_DO_SEU_REPOSITORIO)  
-👉 [Veja o site publicado aqui](URL_DO_GITHUB_PAGES_SE_PUBLICAR)  
-
-
-
-
-
+ 
 <h1 align="center"> DevLinks </h1>
 
 <p align="center">
