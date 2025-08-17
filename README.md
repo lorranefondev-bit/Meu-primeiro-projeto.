@@ -10,7 +10,7 @@ Este foi meu primeiro projeto de programação, desenvolvido durante um desafio 
 
 <p align="center">
 Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
-<a href="https://www.rocketseat.com.br/">Estude esse projeto em formato de vídeo clicando aqui.</a>
+<a href="https://app.rocketseat.com.br/journey/discover/overview">Estude esse projeto em formato de vídeo clicando aqui.</a>
 </p>
 
 <p align="center">
