@@ -34,12 +34,18 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Git e Github
 - Figma
 
-## 💻 Projeto
+## 💻 Projeto**
+
+<br/>  
 
 ![Preview do Projeto](CoverProjeto.jpg)
 O DevLinks é um agregador de links desenvolvido como cartão de visitas digital. Ele permite reunir em um só lugar seus principais links — como redes sociais, portfólio e contatos — tornando seu perfil mais organizado, acessível e fácil de compartilhar.
 
-- [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
+<br/>
+<br/>
+<br/>  
+
+- [Acesse o projeto finalizado, online](https://lorrane-fon.github.io/ProjetoRocketseat/)
 
 ## 🔖 Layout
 
@@ -51,4 +57,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Esse projeto foi realizado por mim em meados de 2023 e salvo em um repositório em outra conta. Por motivos de profissionalismo, criei uma conta nova onde pudesse manter organizado. Trouxe esse projeto a fim de ter salvo nesta conta o meu primeiro projeto.
